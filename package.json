@@ -1,0 +1,25 @@
+{
+  "name": "jayden-pinger",
+  "version": "1.0.0",
+  "description": "pings jayden because he is a fatty and wont wake up",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Icey-berg/jayden-pinger.git"
+  },
+  "keywords": [
+    "fortnite"
+  ],
+  "author": "icey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Icey-berg/jayden-pinger/issues"
+  },
+  "homepage": "https://github.com/Icey-berg/jayden-pinger#readme",
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  }
+}
